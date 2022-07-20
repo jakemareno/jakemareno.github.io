@@ -1,2 +1,3 @@
 # jakemareno.github.io
-my personal site
+
+site for my portfolio
