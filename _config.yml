@@ -28,8 +28,9 @@ domain: jakemareno.github.io
 github_username:  jakemareno
 
 # Build settings
-theme: minima
+remote-theme: pages-themes/primer@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
