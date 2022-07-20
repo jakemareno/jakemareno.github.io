@@ -1,3 +1,3 @@
-# jakemareno.github.io
+# Portfolio | Jake Mareno
 
-site for my portfolio
+Basic site built with Jekyll/GitHub pages to showcase my projects.
