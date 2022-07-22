@@ -15,3 +15,11 @@ List:
 * The College Dropout
 * Late Registration
 * Graduation
+
+```java
+class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+```
